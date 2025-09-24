@@ -1,7 +1,7 @@
 #Create a Python program that is able to calculate car’s fuel consumption (diesel or petrol) and present the consumption in liters per 100km “x l per 100 km”
 
-#Print info message “Calculate fuel consumtion.”
-print("Calculate fuel consumtion.")
+#Print info message “Calculate fuel consumption.”
+print("Calculate fuel consumption.")
 #Ask “Enter travel distance(kilometers): ” and store the value to Feed variable
 Feed = input("Enter travel distance(kilometers): ")
 #Convert the Feed into an integer and assign it to Distance variable
