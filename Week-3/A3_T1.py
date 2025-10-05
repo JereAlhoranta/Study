@@ -1,3 +1,4 @@
+
 # Make Python program and implement if-statements in proper places.
 
 #     Ask user to insert two integers
@@ -49,8 +50,4 @@ else:
     print("Sum is odd.")    
 # Program ending.
 print("Program ending.")
-
-
-
-
 

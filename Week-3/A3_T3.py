@@ -1,3 +1,4 @@
+
 # Create a program with a plain menu.
 
 #     Prompt username first
@@ -44,5 +45,3 @@ else:
 
 # Program ending.
 print("\nProgram ending.")
-
-

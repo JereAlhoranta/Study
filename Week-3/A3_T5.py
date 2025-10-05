@@ -1,3 +1,4 @@
+
 # A3_T5 Temperature converter (TEST TASK)
 
 # Create a temperature unit conversion program.
@@ -58,6 +59,3 @@ else:
 # Program ending.
 
 print("\nProgram ending.")
-
-
-# Note! version 2.0.1 allows both Celsius and Celcius. The syntax in the grading tool is covered with [cs] regex pattern.
